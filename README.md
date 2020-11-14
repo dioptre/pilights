@@ -1,3 +1,9 @@
+# Root Crontab
+
+```sh
+@reboot env PYTHONPATH=".:/home/pi/rpi_ws281x/build/lib.linux-armv7l-2.7" python /home/pi/rpi_ws281x/python/examples/strandtest.py
+```
+
 rpi_ws281x
 ==========
 
