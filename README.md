@@ -1,3 +1,7 @@
+# Lights
+
+https://www.amazon.com/INVOLT-Individually-Addressable-Programmable-Decoration/dp/B07GKWCFG3
+
 # IP
 
 192.168.7.171
