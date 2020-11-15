@@ -10,6 +10,7 @@
 
 rpi_ws281x
 ==========
+https://github.com/jgarff/rpi_ws281x
 
 Userspace Raspberry Pi library for controlling WS281X LEDs.
 This includes WS2812 and SK6812RGB RGB LEDs
