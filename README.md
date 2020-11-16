@@ -31,7 +31,7 @@ vi ~/rpi-ws281x-python/run/yourcode.py
 #Kill the running process
 sudo killall python
 #RUN YOURS
-sudo python ~/rpi-ws281x-python/run/1.py
+sudo python ~/rpi-ws281x-python/run/yourcode.py
 ```
 
 ## Root Crontab (change the default on reboot)
